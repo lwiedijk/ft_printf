@@ -37,6 +37,5 @@ int	parse_width(va_list *args, t_recipe *rec, const char **format)
 	if (!width)
 		return (0);
 	else
-        
 		return (1);
 }
